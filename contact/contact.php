@@ -22,7 +22,6 @@ $message = stripslashes($_POST['message']);
 $error = '';
 
 
-
 if(!$error)
 {
 $mail = mail(WEBMASTER_EMAIL, $subject, $message,
