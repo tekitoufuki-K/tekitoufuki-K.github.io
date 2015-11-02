@@ -350,7 +350,7 @@ section.callaction {
 
 #content {
 	position:relative;
-	background:#D9EDF7;
+	background:#fff;
 	padding:50px 0 40px 0;
 }
 
@@ -1974,3 +1974,5 @@ article img.pull-right, article .align-right{
 @media (max-width: 360px) {
 
 }
+
+
